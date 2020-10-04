@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\OverloadsTemplatesVBU_022\Source.cpp(23,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\OverloadsTemplatesVBU_022\Source.cpp(9,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\OverloadsTemplatesVBU_022\Source.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FillRand<int>(T [],int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\OverloadsTemplatesVBU_022\Source.cpp(9,29): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=char
+          ]
+C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\OverloadsTemplatesVBU_022\Source.cpp(36): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FillRand<char>(T [],int)"
+          with
+          [
+              T=char
+          ]
+  OverloadsTemplatesVBU_022.vcxproj -> C:\Users\VD230\source\repos\OverloadsTemplatesVBU_022\Debug\OverloadsTemplatesVBU_022.exe
